@@ -19,7 +19,7 @@ this project uses a number of open source projects to work properly:
 #### 1/ Build the docker image 
 
 ```sh
-$ git clone https://github.com/liliasfaxi/hadoop-cluster-docker
+$ git clone https://github.com/alibouhlel/hadoop-cluster-docker
 $ cd hadoop-cluster-docker
 $ ./build-image.sh
 $ sudo ./start-container.sh
